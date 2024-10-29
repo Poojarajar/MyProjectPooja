@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\migrations\\20241016073329_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\migrations\\20241016073329_empinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\migrations\\employeedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\controllers\\employeemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3C1EDCE-5021-4DAE-90C5-343C593A9C87}|MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj|solutionrelative:mvc_codefirstapproach_pooja\\mvc_codefirstapproach_pooja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:19:26.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:17:10.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeModelsController.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Controllers\\EmployeeModelsController.cs",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\Controllers\\EmployeeModelsController.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Controllers\\EmployeeModelsController.cs",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\Controllers\\EmployeeModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:27:19.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\Migrations\\EmployeeDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:57:11.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241016073329_EmpInit.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Migrations\\20241016073329_EmpInit.cs",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\Migrations\\20241016073329_EmpInit.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Migrations\\20241016073329_EmpInit.cs",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\Migrations\\20241016073329_EmpInit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:33:29.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\appsettings.json",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\appsettings.json",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T06:30:24.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDBContext.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Models\\EmployeeDBContext.cs",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\Models\\EmployeeDBContext.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Models\\EmployeeDBContext.cs",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\Models\\EmployeeDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:20:59.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:04:55.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MVC_CodeFirstApproach_Pooja.csproj",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T05:24:42.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_CodeFirstApproach_Pooja\\Program.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_CodeFirstApproach_Pooja\\MVC_CodeFirstApproach_Pooja\\Program.cs",
+              "RelativeToolTip": "MVC_CodeFirstApproach_Pooja\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:10:06.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

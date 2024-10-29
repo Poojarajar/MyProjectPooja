@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Migrations\\20241028120352_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductMicroservices\\Migrations\\20241028120352_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|c:\\pooja r\\pooja_webapi\\productmicroservices\\productmicroservices\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|c:\\pooja r\\pooja_webapi\\productmicroservices\\productmicroservices\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|c:\\pooja r\\pooja_webapi\\productmicroservices\\productmicroservices\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|c:\\pooja r\\pooja_webapi\\productmicroservices\\productmicroservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|c:\\pooja r\\pooja_webapi\\productmicroservices\\productmicroservices\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|c:\\pooja r\\pooja_webapi\\productmicroservices\\productmicroservices\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|c:\\pooja r\\pooja_webapi\\productmicroservices\\productmicroservices\\dbcontexts\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\dbcontexts\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|c:\\pooja r\\pooja_webapi\\productmicroservices\\productmicroservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CFBFA55-4554-4A73-A6A0-46499D69B830}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241028120352_Init.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Migrations\\20241028120352_Init.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Migrations\\20241028120352_Init.cs",
+              "ToolTip": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Migrations\\20241028120352_Init.cs",
+              "RelativeToolTip": "ProductMicroservices\\Migrations\\20241028120352_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:03:52.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductMicroservices\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwGIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:08:07.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Program.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Program.cs",
+              "ToolTip": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Program.cs",
+              "RelativeToolTip": "ProductMicroservices\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:40:41.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "ProductMicroservices\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:44:07.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ProductMicroservices\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:49:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Models\\Category.cs",
+              "ToolTip": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Models\\Category.cs",
+              "RelativeToolTip": "ProductMicroservices\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:17:55.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Models\\Product.cs",
+              "ToolTip": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\Models\\Product.cs",
+              "RelativeToolTip": "ProductMicroservices\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:17:35.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductMicroservices\\appsettings.json",
+              "ToolTip": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\appsettings.json",
+              "RelativeToolTip": "ProductMicroservices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T06:35:21.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\DBContexts\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\DBContexts\\ProductContext.cs",
+              "ToolTip": "C:\\Pooja R\\Pooja_WebAPI\\ProductMicroservices\\ProductMicroservices\\DBContexts\\ProductContext.cs",
+              "RelativeToolTip": "ProductMicroservices\\DBContexts\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:30:53.932Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

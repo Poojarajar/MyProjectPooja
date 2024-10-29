@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MVC_CodeFirstApproach_Pooja.props" />
+</Project>

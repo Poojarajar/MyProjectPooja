@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\StudentManagemet_DBFirst.props" />
+</Project>

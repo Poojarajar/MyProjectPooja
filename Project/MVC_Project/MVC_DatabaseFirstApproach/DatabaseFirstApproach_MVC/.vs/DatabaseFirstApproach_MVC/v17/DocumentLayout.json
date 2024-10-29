@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_databasefirstapproach\\databasefirstapproach_mvc\\databasefirstapproach_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|solutionrelative:databasefirstapproach_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_databasefirstapproach\\databasefirstapproach_mvc\\databasefirstapproach_mvc\\models\\tblcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|solutionrelative:databasefirstapproach_mvc\\models\\tblcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_databasefirstapproach\\databasefirstapproach_mvc\\databasefirstapproach_mvc\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|solutionrelative:databasefirstapproach_mvc\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_databasefirstapproach\\databasefirstapproach_mvc\\databasefirstapproach_mvc\\databasefirstapproach_mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|solutionrelative:databasefirstapproach_mvc\\databasefirstapproach_mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_databasefirstapproach\\databasefirstapproach_mvc\\databasefirstapproach_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|solutionrelative:databasefirstapproach_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_databasefirstapproach\\databasefirstapproach_mvc\\databasefirstapproach_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|solutionrelative:databasefirstapproach_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|c:\\pooja r\\batch_7_pooja\\project\\mvc_project\\mvc_databasefirstapproach\\databasefirstapproach_mvc\\databasefirstapproach_mvc\\models\\countrypoojadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771C8271-1AB4-40BF-8C16-554746B70831}|DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj|solutionrelative:databasefirstapproach_mvc\\models\\countrypoojadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach_MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DatabaseFirstApproach_MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T07:11:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseFirstApproach_MVC",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj",
+              "RelativeToolTip": "DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T07:11:28.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TblCountriesController.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Controllers\\TblCountriesController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach_MVC\\Controllers\\TblCountriesController.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Controllers\\TblCountriesController.cs",
+              "RelativeToolTip": "DatabaseFirstApproach_MVC\\Controllers\\TblCountriesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:02:46.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach_MVC\\appsettings.json",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirstApproach_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T06:39:54.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TblCountry.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Models\\TblCountry.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach_MVC\\Models\\TblCountry.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Models\\TblCountry.cs",
+              "RelativeToolTip": "DatabaseFirstApproach_MVC\\Models\\TblCountry.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:32:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach_MVC\\Program.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Program.cs",
+              "RelativeToolTip": "DatabaseFirstApproach_MVC\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:32:10.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryPoojadbContext.cs",
+              "DocumentMoniker": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Models\\CountryPoojadbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproach_MVC\\Models\\CountryPoojadbContext.cs",
+              "ToolTip": "C:\\Pooja R\\Batch_7_Pooja\\Project\\MVC_Project\\MVC_DatabaseFirstApproach\\DatabaseFirstApproach_MVC\\DatabaseFirstApproach_MVC\\Models\\CountryPoojadbContext.cs",
+              "RelativeToolTip": "DatabaseFirstApproach_MVC\\Models\\CountryPoojadbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:18:50.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
